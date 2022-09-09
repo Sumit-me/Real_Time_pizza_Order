@@ -12,6 +12,7 @@
 #noty_layout__topCenter,
 #noty_layout__topLeft,
 #noty_layout__top {
+
   position: fixed;
   margin: 0;
   padding: 0;
